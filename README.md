@@ -9,7 +9,7 @@ Important versions for required library are listed in the code file. <br/>
 "read_image.ipynb" is the code to test if a image is crupted and it can also move images between folders.<br/>
 
 # Android Application 
-## with TensorFlowlite model
+## deployed with TensorFlowlite model
 The layout file in the res folder.<br/>
 Three java classes including Mainactivity, TensorFlowclassifer and classifer in the main folder in app directory.<br/>
 The trained CNN model deployed in the android app is in the mobilenetV2_model_best.tflite file which is in assets folder under main directory.<br/>
