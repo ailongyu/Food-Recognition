@@ -10,7 +10,7 @@ Important versions for required library are listed in the code file. <br/>
 
 # Android Application 
 ## with TensorFlowlite model
-The layout file in the res folder
-Three java classes including Mainactivity, TensorFlowclassifer and classifer in the main folder in app directory
-The trained CNN model deployed in the android app is in the mobilenetV2_model_best.tflite file which is in assets folder under main directory.
-Labels.txt contains all the food the app can recognize which is in assets folder.
+The layout file in the res folder.<br/>
+Three java classes including Mainactivity, TensorFlowclassifer and classifer in the main folder in app directory.<br/>
+The trained CNN model deployed in the android app is in the mobilenetV2_model_best.tflite file which is in assets folder under main directory.<br/>
+Labels.txt contains all the food the app can recognize which is in assets folder.<br/>
