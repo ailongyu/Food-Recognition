@@ -7,3 +7,10 @@ Important versions for required library are listed in the code file. <br/>
 "labels.txt" are labels for training data.<br/>
 "load_model.ipynb" is the code to test our trained model. <br/>
 "read_image.ipynb" is the code to test if a image is crupted and it can also move images between folders.<br/>
+
+# Android Application 
+## with TensorFlowlite model
+The layout file in the res folder
+Three java classes including Mainactivity, TensorFlowclassifer and classifer in the main folder in app directory
+The trained CNN model deployed in the android app is in the mobilenetV2_model_best.tflite file which is in assets folder under main directory.
+Labels.txt contains all the food the app can recognize which is in assets folder.
